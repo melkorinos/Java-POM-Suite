@@ -9,7 +9,12 @@ The solution contains the following elements:
 - 1 test runner java file 
 - 2 java files generating page object instances for the landing page and the collection page
 
-To run the suite please load the solution and run `mvn test` for all tests.
+To run the suite please load the solution and run `mvn test` for all tests.  
+
+Possible improvements:
+-Implement parallel execution
+-Split test steps into multiple files
+-Remove remaining Thread.Sleep
 
 ## Test Scenarios
 
