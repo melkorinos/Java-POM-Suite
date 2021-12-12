@@ -11,9 +11,9 @@ The solution contains the following elements:
 
 To run the suite please load the solution and run `mvn test` for all tests.  
 
-Possible improvements:  
--Implement parallel execution
--Split test steps into multiple files
+Future improvements:  
+-Implement parallel execution  
+-Split test steps into multiple files  
 -Remove remaining Thread.Sleep
 
 ## Test Scenarios
