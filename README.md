@@ -3,13 +3,13 @@ Create a maven project in java that contains pageObject java classes, testCases 
 
 ## Solution
 
-The solution contains the following elements:  
+The solution was created in VScode using Chrome and contains the following elements:  
 - 2 cucumber feature files (site navigation feature and collection page search feature) which define the test steps
 - 1 java file containing the test methods
 - 1 test runner java file 
 - 2 java files generating page object instances for the landing page and the collection page
 
-To run the suite please add include the ChromeDriver location in your PATH environment variable, load the solution in your preferred IDE and run `mvn test` for all tests OR  
+To run the suite please add the ChromeDriver location in your PATH environment variable, load the solution in your preferred IDE and run `mvn test` for all tests OR  
 run `mvn test -Dcucumber.filter.tags="@SCENARIO_NAME"` and replace scenario name with a test tag name to run a specific scenario.  
 
 Future improvements:  
