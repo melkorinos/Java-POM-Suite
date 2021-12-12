@@ -14,7 +14,7 @@ To run the suite please load the solution and run `mvn test` for all tests OR `m
 Future improvements:  
 - Implement parallel execution  
 - Split test steps into multiple files  
-- Remove remaining Thread.Sleep
+- Remove remaining Thread.Sleep calls
 
 ## Test Scenarios
 
