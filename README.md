@@ -9,7 +9,7 @@ The solution contains the following elements:
 - 1 test runner java file 
 - 2 java files generating page object instances for the landing page and the collection page
 
-To run the suite please add include the ChromeDriver location in your PATH environment variable, load the solution in your preferred IDE and run `mvn test` for all tests OR `mvn test -Dcucumber.filter.tags="@SCENARIO_NAME"` and replace scenario name with a test tag name to run a specific scenario.  
+To run the suite please add include the ChromeDriver location in your PATH environment variable, load the solution in your preferred IDE and run `mvn test` for all tests   OR `mvn test -Dcucumber.filter.tags="@SCENARIO_NAME"` and replace scenario name with a test tag name to run a specific scenario.  
 
 Future improvements:  
 - Implement parallel execution  
