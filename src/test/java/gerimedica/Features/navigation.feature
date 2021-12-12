@@ -1,5 +1,6 @@
 Feature: Site navigation
 
+  @firstTest
   Scenario: Verification of functioning link and nagivation to the correct page
     Given Open the browser and launch the "https://www.vangoghmuseum.nl/nl"
     When  Click the link to the collection page
