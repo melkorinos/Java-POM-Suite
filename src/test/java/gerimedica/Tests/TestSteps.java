@@ -81,7 +81,6 @@ public class TestSteps {
 
         }
 
-    
     @When("Select the search box and enter {string}")
 	public void Select_the_search_box_and_enter_query(String searchQuery) {
 
