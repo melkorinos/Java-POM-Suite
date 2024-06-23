@@ -1,4 +1,4 @@
-# Gerimedica Selenium Web Driver assessment
+# Selenium Web Driver assessment
 Create a maven project in java that contains pageObject java classes, testCases java classes and utils java classes (if needed) to test the following test cases in the website of Van Gogh Museum. 
 
 ## Solution
